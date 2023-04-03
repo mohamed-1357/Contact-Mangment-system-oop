@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1679663830 source:e:\proplem_solving\version2_contact_mangement_systeam\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+	"ContactBook.h"
+
+1679664348 source:e:\proplem_solving\version2_contact_mangement_systeam\src\contactbook.cpp
+	"ContactBook.h"
+
+1679664383 e:\proplem_solving\version2_contact_mangement_systeam\include\contactbook.h
+	<iostream>
+	"Date.h"
+	"Contact.h"
+	"Phone.h"
+
+1680482399 source:e:\proplem_solving\version2_contact_mangement_systeam\src\phone.cpp
+	"Phone.h"
+
+1680482465 e:\proplem_solving\version2_contact_mangement_systeam\include\phone.h
+	<iostream>
+
+1680482499 source:e:\proplem_solving\version2_contact_mangement_systeam\src\contact.cpp
+	"Contact.h"
+
+1679663889 e:\proplem_solving\version2_contact_mangement_systeam\include\contact.h
+	<iostream>
+	"Date.h"
+	"Phone.h"
+	<algorithm>
+
+1678631600 source:e:\proplem_solving\version2_contact_mangement_systeam\src\date.cpp
+	"Date.h"
+
+1678475319 e:\proplem_solving\version2_contact_mangement_systeam\include\date.h
+	<iostream>
+
